@@ -35,4 +35,4 @@ Smart Note is 100% FREE. Boost your productivity for free.
 
 ## Support or Contact
 
-If you have any questions, please send an email to superiormobileapps@gmail.com.
+If you have any questions, please send an email to [superiormobileapps@gmail.com].
