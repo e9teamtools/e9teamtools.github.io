@@ -1,5 +1,6 @@
-## Welcome to Smart Note Pages
+# Welcome to Smart Note Pages
 
+## Introduction
 [Smart Note](https://play.google.com/store/apps/details?id=com.e9foreverfs.note) is a succinct and efficient notepad application that allows you to capture and organize your ideas. You can download from [Google Play](https://play.google.com/store/apps/details?id=com.e9foreverfs.note)
 You can manager your schedules and notes with Smart Note. It gives you a quick and simple notepad editing experience when you write note or to do list. It makes to take a note easier than any other notepad.
 
@@ -34,4 +35,4 @@ Smart Note is 100% FREE. Boost your productivity for free.
 
 ## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Smart Note? If you have any questions, please send an email to superiormobileapps@gmail.com.
