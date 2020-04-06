@@ -1,42 +1,37 @@
-#1.INTRODUCTION
-Welcome to use Smart Note("OUR PRODUCT")! Your use of Product is subject to these Terms ("Service" or "Our Service").
-Smarter Note is a smart and efficient Android device tool app.
-Your use of OUR PRODUCT is subject to the terms and conditions of these Terms of Use ("Terms"). Please read these Terms carefully.
-You must comply with these Terms in your use of OUR PRODUCT and only use OUR PRODUCT as permitted by applicable laws and regulations, wherever you may be when you use it. You must review these Terms to understand how you can and cannot use OUR PRODUCT. If you do not agree to these Terms, you must not download or install or otherwise use OUR PRODUCT.
-You must also comply with our Privacy Policy in using Our Service. To the extent that our Privacy Policy is different from these Terms, the Privacy Policy will apply.
+## Welcome to GitHub Pages
 
-#2.CHANGES TO TERMS AND OUR SERVICES
-We may make changes to these Terms over time, so please come back and review them.
-In addition, as Our Service and user experience are constantly evolving, we may from time to time (and to the extent permitted by applicable law) add, change or remove features from Our Service (including in relation to whether a service is free of charge or not), or suspend or terminate a service altogether.
+You can use the [editor on GitHub](https://github.com/e9teamtools/e9teamtools.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-3.CONTRACTING ENTITY
-By downloading or installing and using OUR PRODUCT, you are agreeing to be bound by these Terms between you and Our Team.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-4.PRIVACY POLICY
-The use of Our Service may involve the collection and use of your Information on Our Service. It is important for you to understand how this happens and how you may control it. By using Our Service, you confirm that you have read and consent to our following activities:
-1)the collection of the information as how you use OUR PRODUCT (such as the time when you install OUR PRODUCT, version of OUR PRODUCT you are using, how you use the various functions and features that available to you), the information about your mobile device (such as device settings, the operating system, hardware version, device identifiers) and your communication with us
-2)the processing of your information for the following purpose: (i) to administer and maintain the functions and features that are part of Our Service; (ii) to analyze, develop and improve Our Service and develop new products and services; (iii) to detect and prevent abusive, fraudulent, malicious or potentially illegal activities, and to protect the rights, safety or property of our users;(iv) to perform other functions as may otherwise be described to you at the time of collection or as enabled by you in relation to Our Services
-3)the storage and transferring your information in or to a number of countries;
-4)the use of your information to send you emails
-5.WARRANTY AND DISCLAIMER
-We warrant to you that we will provide our services using reasonable care and skill.
-APART FROM THIS WARRANTY, TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATION, ALL OF OUR SERVICES AND SOFTWARE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS AND NEITHER US NOR ANY OF OUR AFFILIATE COMPANIES MAKE ANY REPRESENTATION OR WARRANTY OR GIVES ANY UNDERTAKING IN RELATION TO OUR SERVICES, OUR SOFTWARE OR ANY CONTENT SUBMITTED, TRANSMITTED OR DISPLAYED BY OUR SERVICES, INCLUDING: (I) ANY REPRESENTATION, WARRANTY OR UNDERTAKING THAT OUR SERVICES OR SOFTWARE WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE OR FREE FROM VIRUSES; (II) THAT OUR SERVICES OR SOFTWARE WILL BE COMPATIBLE WITH YOUR DEVICE; OR (III) THAT OUR SERVICES OR SOFTWARE WILL BE OF MERCHANTABLE QUALITY, FIT FOR A PARTICULAR PURPOSE OR NOT INFRINGE THE INTELLECTUAL PROPERTY RIGHTS OF ANY PERSON. TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATION, YOU WAIVE ANY AND ALL IMPLIED REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS.
-6.LIABILITY FOR OUR SERVICES AND OUR PRODUCT
-TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, THE TOTAL AGGREGATE LIABILITY OF US AND OUR AFFILIATE COMPANIES FOR ALL CLAIMS IN CONNECTION WITH THESE TERMS AND OUR SERVICES OR SOFTWARE, ARISING OUT OF ANY CIRCUMSTANCES, WILL BE LIMITED TO USD100.
-TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, IN NO EVENT WILL WE OR ANY OF OUR AFFILIATE COMPANIES BE LIABLE IN CONNECTION WITH THESE TERMS AND OUR SERVICES OR SOFTWARE FOR ANY DAMAGES CAUSED BY: (I) ANY NATURAL DISASTER SUCH AS FLOODS, EARTHQUAKES OR EPIDEMICS; (II) ANY SOCIAL EVENT SUCH AS WARS, RIOTS OR GOVERNMENT ACTIONS; (III) ANY COMPUTER VIRUS, TROJAN HORSE OR OTHER DAMAGE CAUSED BY MALWARE OR HACKERS; (IV) ANY MALFUNCTION OR FAILURE OF OUR OR YOUR SOFTWARE, SYSTEM, HARDWARE OR CONNECTIVITY; (V) IMPROPER OR UNAUTHORISED USE OF OUR SERVICES OR SOFTWARE; (VI) YOUR USE OF OUR SERVICES OR SOFTWARE IN BREACH OF THESE TERMS; OR (VII) ANY REASONS BEYOND OUR REASONABLE CONTROL OR PREDICTABILITY. NOR WILL WE, TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, BE LIABLE UNDER ANY CIRCUMSTANCES FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR FOR ANY LOSS OF BUSINESS, REVENUES, PROFITS, GOODWILL, CONTENT OR DATA.
-Nothing in these Terms limits or excludes any of the following liabilities, except to the extent that such liabilities may be waived, limited or excluded under applicable laws and regulations:
-any liability for death or personal injury;
-any liability for gross negligence or willful misconduct; or
-any other liability to the extent that such liability cannot be waived, limited or excluded under applicable laws and regulations.
-NOTWITHSTANDING ANY OTHER PROVISIONS OF THESE TERMS, NOTHING IN THESE TERMS LIMITS OR EXCLUDES ANY OF YOUR STATUTORY RIGHTS IN YOUR JURISDICTION (INCLUDING ANY RIGHTS UNDER APPLICABLE CONSUMER PROTECTION REGULATION), TO THE EXTENT THESE MAY NOT BE EXCLUDED OR WAIVED UNDER APPLICABLE LAWS AND REGULATIONS.
-7.TERMINATION
-These Terms will apply to your use of OUR PRODUCT and Our Service until access to the relevant services is terminated by either you or us.
-We may suspend or terminate your access to any or all of Our Service: (i) if we reasonably believe that you have breached these Terms; (ii) if your use of Our Service creates risk for us or for other users of our services, gives rise to a threat of potential third party claims against us or is potentially damaging to our reputation; (iii) if you fail to use Our Service for a prolonged period; or (iv) for any other reason. Where reasonably practicable, we will give you notice of any suspension or termination.
-8.GENERAL
-These Terms are the entire agreement between you and us in relation to Our Service. You agree that you will have no claim against us for any statement which is not explicitly set out in these Terms. The invalidity of any provision of these Terms (or parts of any provision) will not affect the validity or enforceability of any other provision (or the remaining parts of that provision). If a court holds that we cannot enforce any part of these Terms as drafted, we may replace those terms with similar terms to the extent enforceable under applicable law, without changing the remaining terms of these Terms. No delay in enforcing any provision of these Terms will be construed to be a waiver of any rights under that provision. Any rights and obligations under these Terms which by their nature should survive, including but not limited to any obligations in relation to the liability of, or indemnities (if any) given by, the respective parties, will remain in effect after termination or expiration of these Terms.
-No person other than you and us will have any right to enforce these Terms against any person, and you may not delegate, assign or transfer these Terms or any rights or obligations under these Terms, by operation of law or otherwise without our consent. We may freely assign, transfer or sub-contract these Terms or our rights and obligations under these Terms, in whole or in part, without your prior consent or notice. You acknowledge and agree that in no event will our partners or affiliate companies have any liability under these Terms.
-9.GOVERNING LAW AND DISPUTE RESOLUTION
-Except to the extent that: (i) any applicable additional terms incorporated into these Terms provide differently, or (ii) the applicable laws and regulations of your jurisdiction mandate otherwise (for instance, you may have statutory rights in your jurisdiction in relation to bringing or defending claims in a local court (including small claims court (or similar court), these Terms and any dispute or claim arising out of or in connection with these Terms will be governed by the law of the People's Republic of China.
-Any dispute, controversy or claim (whether in contract, tort or otherwise) arising out of, relating to, or in connection with these Terms, including their existence, validity, interpretation, performance, breach or termination, will be referred to and finally resolved by Shanghai International Arbitration Center under the its rules in force when the Notice of Arbitration is submitted. The seat of the arbitration will be Shanghai. There will be one arbitrator only. The arbitration proceedings will be conducted in English.
-10.LANGUAGE OF THE TERMS
-The language of these Terms is English. If we provide a translation of the English version of these Terms, you agree that the translation is provided for your convenience only and that the English language version of these Terms will govern your relationship with us. If there is any contradiction between what the English language version of these Terms say and what a translation says, then the English language version will take precedence.
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e9teamtools/e9teamtools.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
