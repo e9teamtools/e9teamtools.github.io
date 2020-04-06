@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Smart Note Pages
 
 You can use the [editor on GitHub](https://github.com/e9teamtools/e9teamtools.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
